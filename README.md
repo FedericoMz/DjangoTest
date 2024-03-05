@@ -1,11 +1,11 @@
 # DjangoTest
- A Django test app, managing restaurants, recipes, and ingredients.
+ A simple Django app, managing restaurants, recipes, and ingredients.
 
 ## Requirements
- You will need to set up a Postgres Server, and edit the file _settings.py_ as needed.
+ You must set up a Postgres Server, and edit the file _settings.py_ accordingly.
 
 ## APIs
- To manage restaurants, recipes, and ingredients, the app employs the following APIs. They provide endpoints for various CRUD (Create, Read, Update, Delete) operations. The Notebook file provides some examples.
+ The app employs the following APIs to manage restaurants, recipes, and ingredients. They provide endpoints for various CRUD operations. The Notebook file provides some examples.
 
 1. **Restaurants API:**
    - Endpoint: `/restaurants/`
