@@ -1,5 +1,5 @@
 # DjangoTest
- A simple Django app, managing restaurants, recipes, and ingredients.
+ A simple app I made to learn Django, managing restaurants, recipes, and ingredients.
 
 ## Requirements
  You must set up a Postgres Server, and edit the file _settings.py_ accordingly.
